@@ -16,7 +16,7 @@
 - 파이썬을 3rd party 스크립트로 이용가능한 상황에 적용(pyMEL or discord.py 등)
 - GIS 관련
 - 머신러닝 or 딥러닝
-
+- GUI 
 
 ## 일정
 
